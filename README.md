@@ -17,7 +17,7 @@ A few fun facts about me:
   - 🚗 I enjoy tweaking and fixing cars.
   - 🌱 I’m currently deepening my understanding of JavaScript.
   - 👯 I’m open to collaborating on anything intriguing!
-  - 📚 Teaching is another passion of mine. Lately, I've been investing my efforts to train an enthusiastic super junior developer: my wife, [kajawitek on GitHub](https://github.com/kajawitek).
+  - 📚 Teaching is another passion of mine. Lately, I've been investing my efforts to train an enthusiastic super junior developer: my wife, [Kaja](https://github.com/kajawitek).
 
 ## My Talks 🎙️
 
