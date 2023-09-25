@@ -22,7 +22,7 @@ A few fun facts about me:
 ## My Talks 🎙️
 
 I talked about:
-- "Replace Frontend Developer with Ruby Junior and Hotwire". In this talk, I shared my story about my first big job: removing React and using Rails Hotwire instead. It showed how easy and helpful it is to use Hotwire with Rails.
+- "Replace Frontend Developer with Ruby Junior and Hotwire". In this talk, I shared my story about my first big job: removing React and using Rails and Hotwire instead. It showed how easy and helpful it is to use Hotwire with Rails.
 
 ## Projects I've Worked On 💼
 
