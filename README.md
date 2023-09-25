@@ -25,6 +25,13 @@ A few fun facts about me:
 - 👯 I’m open to collaborating on anything intriguing!
 - 📚 Teaching is another passion of mine. Lately, I've been investing my efforts to train an enthusiastic super junior developer: my wife, [Kaja](https://github.com/kajawitek).
 
+## Meet Me In Person 🤝
+
+I love to meet like-minded individuals and engage in enriching discussions. You can usually find me at:
+- [PLRUG Warsaw Meetups](https://www.meetup.com/pl-PL/nerdsclub/)
+- [Ruby Warsaw Community Conference](https://www.rubycommunityconference.com/)
+- [Wroclove.rb Conference](https://wrocloverb.com/)
+
 ## My Talks 🎙️
 
 I gave a lightning talk about:
