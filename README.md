@@ -4,7 +4,7 @@
 Me during my bachelor party with my cherished car aflame in the background
 The image encapsulates the essence of staying calm and finding joy, even amidst challenges and unexpected events. 🔥😊
 
-<img width="575" alt="asdasdasd" src="https://github.com/piowit/piowit/assets/2960263/1499b4a3-99c2-4b8c-9d0d-a2c8a277a1ab">
+<img width="575" alt="Me during my bachelor party with my cherished car aflame in the background" src="https://github.com/piowit/piowit/assets/2960263/1499b4a3-99c2-4b8c-9d0d-a2c8a277a1ab">
 
 ## About Me 📌
 
