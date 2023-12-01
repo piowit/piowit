@@ -12,15 +12,15 @@ Hi there! I spent 8 incredible years as a motion graphics designer, where I hone
 
 Now, I'm deeply immersed in full-stack and backend development. My expertise primarily lies in Ruby, Ruby on Rails, Hotwire, and JavaScript. I'm passionate about the benefits of TDD and CI/CD, and I'm always eager to learn more each day.
 
-Currently, I'm working alongside some incredibly talented folks at [Visuality](https://github.com/visualitypl) and [ReactPoland](https://github.com/ReactPoland).
+Currently, I'm working alongside some incredibly talented folks at [Visuality](https://github.com/visualitypl).
 
 A few fun facts about me:
 
 - 🌍 I have an insatiable wanderlust and love traveling the world in unconventional ways.
-- 🐶 I'm a die-hard dog lover.
+- 🐶 I'm a die-hard dog lover, but stray cat named Breena owner 🐈.
 - 🎸 In my free time, you might find me strumming a tune on my guitar.
 - 🌱 Gardening brings me peace, and I love taking care of my plants.
-- 🚗 I enjoy tweaking and fixing cars.
+- 🚗 I enjoy tweaking and fixing cars and motorcycles.
 - 🧠 I’m currently deepening my understanding of JavaScript.
 - 👯 I’m open to collaborating on anything intriguing!
 - 📚 Teaching is another passion of mine. Lately, I've been investing my efforts to train an enthusiastic super junior developer: my wife, [Kaja](https://github.com/kajawitek).
@@ -36,6 +36,10 @@ I love to meet like-minded individuals and engage in enriching discussions. You 
 
 I gave a lightning talk about:
 - "Replace Frontend Developer with Ruby Junior and Hotwire". In this talk, I shared my story about my first big job: removing React and using Rails and Hotwire instead. It showed how easy and helpful it is to use Hotwire with Rails.
+
+## My Blogposts 📰
+
+- [Debugging Rails - Ruby Junior Chronicles](https://www.visuality.pl/posts/debugging-rails-ruby-junior-chronicles)
 
 ## Projects I've Worked On 💼
 
