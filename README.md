@@ -45,7 +45,7 @@ I gave a lightning talk about:
 ## Projects I've Worked On 💼
 
 - [Nerds.Family](https://nerds.family/) - A site for programming courses.
-- [Vibemetrics](https://www.vibemetrics.com/) - A service that gives employees a voice. It's easy to use, automated, and real-time.
+- [Vibemetrics](https://www.vibemetrics.com/) - A service that gives employees a voice.
 
 ## Connect with Me 🌐
 
