@@ -17,7 +17,7 @@ Currently, I'm working alongside some incredibly talented folks at [Visuality](h
 A few fun facts about me:
 
 - 🌍 I have an insatiable wanderlust and love traveling the world in unconventional ways.
-- 🐶 I'm a die-hard dog lover, but stray cat named Breena owner 🐈.
+- 🐈 Passionate about all creatures great and small, I'm also the proud caretaker of a stray cat named Breena.
 - 🎸 In my free time, you might find me strumming a tune on my guitar.
 - 🌱 Gardening brings me peace, and I love taking care of my plants.
 - 🚗 I enjoy tweaking and fixing cars and motorcycles.
@@ -36,6 +36,7 @@ I love to meet like-minded individuals and engage in enriching discussions. You 
 
 I gave a lightning talk about:
 - "Replace Frontend Developer with Ruby Junior and Hotwire". In this talk, I shared my story about my first big job: removing React and using Rails and Hotwire instead. It showed how easy and helpful it is to use Hotwire with Rails.
+- [Parameter Conflicts in Rails: URL vs. Body](https://www.meetup.com/polishrubyusergroup/events/297771313/) - Here, I describe a bug that occurred due to poorly designed frontend-backend communication.
 
 ## My Blogposts 📰
 
