@@ -46,6 +46,7 @@ I gave a lightning talk about:
 
 - [Nerds.Family](https://nerds.family/) - A site for programming courses.
 - [Vibemetrics](https://www.vibemetrics.com/) - A service that gives employees a voice.
+- [VAS Valuation Group](https://vas-group.co.uk/) - UK valuation company.
 
 ## Connect with Me 🌐
 
