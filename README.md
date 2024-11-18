@@ -23,7 +23,8 @@ A few fun facts about me:
 - 🚗 I enjoy tweaking and fixing cars and motorcycles.
 - 🧠 I’m currently deepening my understanding of JavaScript.
 - 👯 I’m open to collaborating on anything intriguing!
-- 📚 Teaching is another passion of mine. Lately, I've been investing my efforts to train an enthusiastic super junior developer: my wife, [Kaja](https://github.com/kajawitek).
+- 📚 Teaching is another passion of mine. I was giving a workshops about Hotwire on Ruby Warsaw Community Conference
+- ❤️ I'm also developing many small applications with my wife, [Kaja](https://github.com/kajawitek). We can tell that we have SoftwareHome :)
 
 ## Meet Me In Person 🤝
 
@@ -32,11 +33,12 @@ I love to meet like-minded individuals and engage in enriching discussions. You 
 - [Ruby Warsaw Community Conference](https://www.rubycommunityconference.com/)
 - [Wroclove.rb Conference](https://wrocloverb.com/)
 
-## My Talks 🎙️
+## My Public Speakings 🎙️
 
 I gave a lightning talk about:
 - "Replace Frontend Developer with Ruby Junior and Hotwire". In this talk, I shared my story about my first big job: removing React and using Rails and Hotwire instead. It showed how easy and helpful it is to use Hotwire with Rails.
 - [Parameter Conflicts in Rails: URL vs. Body](https://www.meetup.com/polishrubyusergroup/events/297771313/) - Here, I describe a bug that occurred due to poorly designed frontend-backend communication.
+- Ruby Warsaw Community Conference Summer 2024 - [Hotwire workshops](https://rubycommunityconference.com/#workshops)
 
 ## My Blogposts 📰
 
