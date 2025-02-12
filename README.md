@@ -39,6 +39,7 @@ I gave a lightning talk about:
 - "Replace Frontend Developer with Ruby Junior and Hotwire". In this talk, I shared my story about my first big job: removing React and using Rails and Hotwire instead. It showed how easy and helpful it is to use Hotwire with Rails.
 - [Parameter Conflicts in Rails: URL vs. Body](https://www.meetup.com/polishrubyusergroup/events/297771313/) - Here, I describe a bug that occurred due to poorly designed frontend-backend communication.
 - Ruby Warsaw Community Conference Summer 2024 - [Hotwire workshops](https://rubycommunityconference.com/#workshops)
+- Ruby Cracow Community Conference Winter 2025 - [Hotwire workshops](https://rubycommunityconference.com/#workshops)
 
 ## My Blogposts 📰
 
