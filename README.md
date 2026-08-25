@@ -40,6 +40,7 @@ I gave a lightning talk about:
 - [Parameter Conflicts in Rails: URL vs. Body](https://www.meetup.com/polishrubyusergroup/events/297771313/) - Here, I describe a bug that occurred due to poorly designed frontend-backend communication.
 - Ruby Warsaw Community Conference Summer 2024 - [Hotwire workshops](https://rubycommunityconference.com/#workshops)
 - Ruby Cracow Community Conference Winter 2025 - [Hotwire workshops](https://rubycommunityconference.com/#workshops)
+- Ruby Cracow Community Conference 2026 - [Hotwire workshops](https://rubycommunityconference.com/#workshops)
 
 ## My Blogposts 📰
 
@@ -47,9 +48,11 @@ I gave a lightning talk about:
 
 ## Projects I've Worked On 💼
 
-- [Nerds.Family](https://nerds.family/) - A site for programming courses.
+- [Nerds.Family](https://nerds.family/) - A programming courses company.
 - [Vibemetrics](https://www.vibemetrics.com/) - A service that gives employees a voice.
 - [VAS Valuation Group](https://vas-group.co.uk/) - UK valuation company.
+- [Pinoint](https://www.pinpointhq.com/) - Applicant Tracking System.
+- [VettaFi](https://www.vettafi.com/) - ETF Knowlege Hub
 
 ## Connect with Me 🌐
 
